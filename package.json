@@ -4,11 +4,21 @@
     "description": "",
     "version": "0.0.1",
     "engines": {
-        "vscode": "^1.50.0"
+        "vscode": "^1.0.0"
     },
     "categories": [
         "Themes"
     ],
+    "publisher": "Manikant Kumar",
+    "author":{
+        "name":"Manikant Kumar"
+    },
+    "license": "MIT",
+    "homepage": "https://github.com/devil-cyber/VSCode-Theme-Extension",
+    "keywords": [
+        'vs code monaki upgrade solari'
+    ],
+    "icon": "icon.png",
     "contributes": {
         "themes": [
             {

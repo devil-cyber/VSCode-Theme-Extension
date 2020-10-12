@@ -1,13 +1,12 @@
-# README
-## This is the README for your extension "monaki-upgrade"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## This is a vscode theme based extension named monaki-upgrade
+### The main listing feature of this extension are:
+- Enhanced color scheme to reduce eye stress
+- Enhanced color scheme for comment
+- Enhanced color scheme for library, foreground, background and many more.
+### Once give it a try :
+**The theme look**
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+<center><img src='screenshot/Screenshot%20(111).png' width='350' height='200'/></center>
+ 
 
 **Enjoy!**
