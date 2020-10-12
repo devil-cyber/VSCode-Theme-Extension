@@ -1,0 +1,21 @@
+{
+    "name": "monaki-upgrade",
+    "displayName": "monaki-upgrade",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monokai Dark-color-theme.json"
+            }
+        ]
+    }
+}
