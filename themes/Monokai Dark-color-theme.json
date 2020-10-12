@@ -10,28 +10,28 @@
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
-				"foreground": "#0bfa53"
+				"foreground": "#f8fc07"
 			}
 		},
 		{
 			"name": "String",
 			"scope": "string",
 			"settings": {
-				"foreground": "#FFEE99"
+				"foreground": "#864fe0"
 			}
 		},
 		{
 			"name": "Number",
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#FF80F4"
+				"foreground": "#00BCD4"
 			}
 		},
 		{
 			"name": "Built-in constant",
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#FF80F4"
+				"foreground": "#c452ba"
 			}
 		},
 		{
@@ -95,7 +95,7 @@
 			"scope": "entity.name.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#A6E22E"
+				"foreground": "#ff9100"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 			"scope": "support.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#66D9EF"
+				"foreground": "#66ef88"
 			}
 		},
 		{
@@ -146,7 +146,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#66D9EF"
+				"foreground": "#1e87e9"
 			}
 		},
 		{
@@ -476,12 +476,12 @@
 		}
 	],
 	"colors": {
-		"editor.background": "#2c1e2c",
+		"editor.background": "#1e292c",
 		"editorCursor.foreground": "#2766ad",
-		"editor.foreground": "#009688",
+		"editor.foreground": "#009639",
 		"editorWhitespace.foreground": "#3B3A32",
-		"editor.lineHighlightBackground": "#3D3D3D",
-		"editor.selectionBackground": "#6d2828"
+		"editor.lineHighlightBackground": "#2c1e2c",
+		"editor.selectionBackground": "#286d50"
 	},
 	"name": "Monokai Dark"
 }
