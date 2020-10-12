@@ -2,7 +2,7 @@
 	"tokenColors": [
 		{
 			"settings": {
-				"background": "#242424",
+				"background": "#F8F8F2",
 				"foreground": "#F8F8F2"
 			}
 		},
@@ -10,7 +10,7 @@
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
-				"foreground": "#8C8C8C"
+				"foreground": "#0bfa53"
 			}
 		},
 		{
@@ -63,7 +63,7 @@
 			"scope": "storage",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#F92672"
+				"foreground": "#28c5c5"
 			}
 		},
 		{
@@ -304,7 +304,7 @@
 			"scope": "markup.deleted",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#D3201F"
+				"foreground": "#c72222"
 			}
 		},
 		{
@@ -319,7 +319,7 @@
 			"name": "diff: inserted",
 			"scope": "markup.inserted",
 			"settings": {
-				"foreground": "#60cf30"
+				"foreground": "#4cd647"
 			}
 		},
 		{
@@ -477,11 +477,11 @@
 	],
 	"colors": {
 		"editor.background": "#2c1e2c",
-		"editorCursor.foreground": "#009688",
+		"editorCursor.foreground": "#2766ad",
 		"editor.foreground": "#009688",
 		"editorWhitespace.foreground": "#3B3A32",
 		"editor.lineHighlightBackground": "#3D3D3D",
-		"editor.selectionBackground": "#403d3d"
+		"editor.selectionBackground": "#6d2828"
 	},
 	"name": "Monokai Dark"
 }
