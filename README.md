@@ -6,7 +6,8 @@
 ### Once give it a try :
 **The theme look**
 
-<center><img src='screenshot/Screenshot%20(111).png' width='350' height='200'/></center>
+<img src='screenshot/Screenshot%20(111).png' width='700' height='350'/>
  
-
-**Enjoy!**
+ [Publish_Your_Own_Extension](https://code.visualstudio.com/api/working-with-extensions/publishing-extens)
+ 
+**Happy coding!**
